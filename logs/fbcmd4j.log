@@ -34,3 +34,5 @@
 2020-06-03 15:34:23.374 [main] ERROR fbcmd4j - Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.
 2020-06-03 15:37:05.190 [main] INFO  fbcmd4j - Iniciando fbcmd4j
 2020-06-03 15:37:09.435 [main] ERROR fbcmd4j - Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.
+2020-06-03 15:58:47.705 [main] INFO  fbcmd4j - Iniciando fbcmd4j
+2020-06-03 15:58:50.867 [main] ERROR fbcmd4j - Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.
