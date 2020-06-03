@@ -1,5 +1,5 @@
 # FBcmd4j
-#Instalación
+# Instalación
 
 Clonar el repositorio
 https://github.com/2608995/FBcmd4j.git
@@ -8,7 +8,7 @@ Clic en File -> Import -> Existing Projects into Workspace. Seleccionar carpeta 
 Click derecho sobre proyecto. Export -> WAR file. Desplegar el archivo .war
 Descargar o exportar el archivo WAR. Ir a la página principal de Tomcat por default. Manager App. Escribir el usuario y contraseña correctos. Choose File y seleccionar el archivo WAR. Desplegar.
 
-#Uso
+# Uso
 
 Recurso api/v1/
 GET: Lista los recursos disponibles. OPTIONS: Documentación del recurso. Recurso api/v1/file
@@ -18,11 +18,11 @@ GET: Lista las notificaciones enviadas. POST: Envía una notificación mediante 
 GET: Lista los usuarios. POST: Crea un usuario mediante los parámetros username, password y fullName. api/v1/user username="user" password="pass" fullName="______" OPTIONS: Documentación del recurso. Recurso api/v1/user/{username}
 GET: Muestra la información del usuario. PUT: Actualiza la información del usuario mediante los parámetros username, password y fullName. api/v1/user/user username="user" password="pass" fullName="_____" DELETE: Elimina al usuario. OPTIONS: Documentación del recurso.
 
-#Créditos
+# Créditos
 
 Desarrollado por: Brenda Karina Gonzalez Vazquez.
 
-#Licencia
+# Licencia
 
 Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
