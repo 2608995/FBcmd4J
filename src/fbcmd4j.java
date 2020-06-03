@@ -16,7 +16,7 @@ import facebook4j.ResponseList;
 
 /**
  *
- * @author John
+ * @author
  */
 public class fbcmd4j {
 
